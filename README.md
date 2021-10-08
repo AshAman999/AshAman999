@@ -7,7 +7,7 @@ Looking for working in Collab
 ![](https://komarev.com/ghpvc/?username=AshAman999&color=green)
 
 
-[![Aman's github stats](https://github-readme-stats.vercel.app/api?username=AshAman999&show_icons=true&theme=radical)](Stats)
+[![Aman's github stats](https://github-readme-stats.vercel.app/api?username=AshAman999&show_icons=true&theme=radical&count_private=true)](Stats)
 
 <!-- ## 📚 My Skills
 
