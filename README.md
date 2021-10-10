@@ -1,7 +1,6 @@
 ## Hey! 👋
 
-I'm Aman, a 20 years old web developer from India. I also work with flutter
-framework... Looking for working in Collab
+I'm Aman
 
 ![](https://komarev.com/ghpvc/?username=AshAman999&color=green)
 
