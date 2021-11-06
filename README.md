@@ -6,10 +6,6 @@ I'm Aman
 
 [![Aman's github stats](https://github-readme-stats.vercel.app/api?username=AshAman999&show_icons=true&theme=radical&count_private=true)](Stats)
 
-<!-- ## 📚 My Skills
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshAman999&layout=compact&show_icons=true&theme=dark)](https://github.com/AshAman99) -->
-
 ## 🔧 Technologies & Tools
 
 ![Skill](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
